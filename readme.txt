@@ -1,0 +1,1 @@
+No explicit instructions were given for input in the project description, so in order to run/test the program, just run with any java compiler and provide input via command line. Examples of valid and invalid input are provided in the source code.
